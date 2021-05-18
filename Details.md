@@ -2,7 +2,7 @@
 
     There's have some input limitation in this code. You can't input any unexpected info where it doesn't necessary or not valid.
 
-#### Example : 
+### Example : 
 
    * You can’t input any character value where it needed an integer. 
     
