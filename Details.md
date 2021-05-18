@@ -9,3 +9,4 @@ Example :
     You have to input valid grade point such as 4, 3.7, 3.3, 3, 2.7, 2.3, 2, 1.7, 1.3, 1.0, 0.
 
     Also, you have to input a valid credit. In this programme, range of credit declared as 1 to 12. Change it according to your needs.
+ 
